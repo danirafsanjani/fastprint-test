@@ -13,7 +13,7 @@ $ cd fastprint-test
 - Start MySQL
 
 # Import Database
-* [Tutorial](https://www.jagoanhosting.com/blog/cara-import-database-mysql/)
+- https://www.jagoanhosting.com/blog/cara-import-database-mysql/
 
 # Run the app
 $ php get.php
